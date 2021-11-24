@@ -1,0 +1,32 @@
+h2{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+.p1{
+	color: green;
+}
+.p2{
+	color: green;
+}
+.p3{
+	color: red;
+}
+.p4{
+	color: red;
+}
+.footer{
+	border: solid;
+	border-color: black;
+	border-radius: 23px;
+	background-color: black;
+	border-width: 15px;
+	width: 97%;
+	position: absolute;
+	bottom: 10px;
+}
+.footer1{
+	text-align: right;
+	color: white;
+}

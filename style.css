@@ -1,0 +1,46 @@
+*{
+	font-family: Arial;
+	text-decoration: none;
+}
+body{
+	background-color: white;
+}
+.header{
+	border: solid;
+	border-color: black;
+	border-radius: 23px;
+	background-color: black;
+	border-width: 7px;
+	text-align: center;
+}
+a{
+	color: black;
+	letter-spacing: 3px;
+	border: solid;
+	border-color: white;
+	background-color: white;
+	border-radius: 23px;
+}
+.p1{
+	text-align: center;
+}
+.p2{
+	text-align: center;
+}
+.footer{
+	border: solid;
+	border-color: black;
+	border-radius: 23px;
+	background-color: black;
+	border-width: 15px;
+	width: 97%;
+	position: absolute;
+	bottom: 10px;
+}
+.footer1{
+	text-align: right;
+	color: white;
+}
+.doma1{
+	text-align: center;
+}

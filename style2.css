@@ -1,0 +1,37 @@
+.h2{
+	color: white;
+	background-color: black;
+	border: solid black;
+	position: absolute;
+	top: 120px;
+	left: 610px;
+}
+.h3{
+	color: white;
+	background-color: black;
+	border: solid black;
+	position: absolute;
+	top: 150px;
+	left: 650px;
+}
+.img{
+	position: absolute;
+	top: 195px;
+	left: 670px;
+	width: 250px;
+	height: 200px;
+}
+.footer{
+	border: solid;
+	border-color: black;
+	border-radius: 23px;
+	background-color: black;
+	border-width: 15px;
+	width: 97%;
+	position: absolute;
+	bottom: 10px;
+}
+.footer1{
+	text-align: right;
+	color: white;
+}
